@@ -1,0 +1,14 @@
+.Pokegame{
+  display: block
+}
+
+.Pokegame-hand1{
+  display: flex
+}
+
+.Pokegame-hand2{
+  display: flex
+}
+.Pokegame-winner{
+  text-align: center;
+}
